@@ -6,7 +6,7 @@ A script to automate download of multiple youtube videos to mp3.
 
 
 ## Options available
-	-e or -h or -p	: Languange English or Hinid or Playlist. Download Folder is decided based on this param
+	-e or -h or -p	: Languange English or Hindi or Playlist. Download Folder is decided based on this param
 	-n 				: [OPTIONAL] Custom name for the file. ex -n filename
   
 ## Configuration
